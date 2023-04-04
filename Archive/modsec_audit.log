@@ -1,0 +1,1916 @@
+---zuqM0xLz---A--
+[03/Feb/2023:08:59:50 +0000] 1675414790 10.0.0.93 58170 10.0.0.11 80
+---zuqM0xLz---B--
+POST /analisys/pdf?r_id=715707&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryJBGihsxxLCkRqBIJ
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 437758
+X-Forwarded-For: 10.0.32.111
+X-Real-IP: 10.0.32.111
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---zuqM0xLz---D--
+
+---zuqM0xLz---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="38C48175-2911-B7D4-2308-34F2952E31A4.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 08:59:53 GMT
+Date: Fri, 03 Feb 2023 08:59:53 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---zuqM0xLz---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (426487 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (373334 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414790"] [ref "v5,24o368015,4v1397,426569t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (426463 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (373331 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414790"] [ref "v5,24o0,6v1397,426569t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1103,1v1103,40v1103,11v1103,4v1103,68v1103,24v1103,4v1103,4v1103,8v1103,1v1103,3v1103,24v1103,24v1103,426569v1103,24v1103,24v1 (508 characters omitted)"]
+
+---zuqM0xLz---I--
+
+---zuqM0xLz---J--
+
+---zuqM0xLz---Z--
+
+---uVcEj3dK---A--
+[03/Feb/2023:08:59:49 +0000] 1675414789 10.0.0.93 58154 10.0.0.11 80
+---uVcEj3dK---B--
+POST /analisys/pdf?r_id=2070&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryU0Lg7UtyAnbZytbj
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 494875
+X-Forwarded-For: 10.0.96.65
+X-Real-IP: 10.0.96.65
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---uVcEj3dK---D--
+
+---uVcEj3dK---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="8035AE38-1B49-7335-18A4-D4210A73A6A6.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 08:59:54 GMT
+Date: Fri, 03 Feb 2023 08:59:54 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---uVcEj3dK---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (482790 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (405451 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414789"] [ref "v5,24o8503,4v1712,482314t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (482782 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (405448 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414789"] [ref "v5,24o0,6v1712,482314t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1134,1v1134,40v1134,10v1134,4v1134,68v1134,24v1134,4v1134,4v1134,8v1134,1v1134,3v1134,24v1134,24v1134,482314v1134,24v1134,24v1 (526 characters omitted)"]
+
+---uVcEj3dK---I--
+
+---uVcEj3dK---J--
+
+---uVcEj3dK---Z--
+
+---It9tVbK8---A--
+[03/Feb/2023:08:59:50 +0000] 1675414790 10.0.0.93 58240 10.0.0.11 80
+---It9tVbK8---B--
+POST /analisys/pdf?r_id=2056&channel_id=1 HTTP/1.1
+Content-Type: multipart/form-data; boundary=---------------------------318768199139234711672355657933
+Accept-Encoding: gzip, deflate, br
+Accept: application/json
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Sec-Fetch-Site: same-site
+Accept-Language: en-US,en;q=0.5
+Content-Length: 440337
+X-Forwarded-For: 10.0.18.182
+X-Real-IP: 10.0.18.182
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+Origin: http://example.com
+Referer: http://example.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+
+---It9tVbK8---D--
+
+---It9tVbK8---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="5DD53150-3B66-C47C-778F-4D59EFC7FA4C.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 08:59:54 GMT
+Date: Fri, 03 Feb 2023 08:59:54 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---It9tVbK8---H--
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (428966 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: multipart/form-data found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app (375693 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414790"] [ref "v5,24o0,6v1337,429057t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v986,1v986,40v986,11v986,4v986,87v986,24v986,4v986,4v986,8v986,1v986,3v986,24v986,24v986,429057v986,24v986,24v986,24v986,376343 (426 characters omitted)"]
+
+---It9tVbK8---I--
+
+---It9tVbK8---J--
+
+---It9tVbK8---Z--
+
+---2Q9nXZOm---A--
+[03/Feb/2023:08:59:54 +0000] 1675414794 10.0.0.93 58234 10.0.0.11 80
+---2Q9nXZOm---B--
+POST /analisys/pdf?r_id=4313&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryA7xq82WuFxUTpysh
+Accept: application/json
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98"
+Content-Length: 440451
+X-Forwarded-For: 10.0.34.119
+X-Real-IP: 10.0.34.119
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---2Q9nXZOm---D--
+
+---2Q9nXZOm---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="C5D0E332-EC10-4431-36F9-9DE1207F6260.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 08:59:57 GMT
+Date: Fri, 03 Feb 2023 08:59:57 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---2Q9nXZOm---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (428924 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (374843 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414794"] [ref "v5,24o374988,4v1657,428910t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (428920 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (374840 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414794"] [ref "v5,24o0,6v1657,428910t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1077,1v1077,40v1077,11v1077,4v1077,68v1077,24v1077,4v1077,4v1077,8v1077,1v1077,3v1077,24v1077,24v1077,428910v1077,24v1077,24v1 (526 characters omitted)"]
+
+---2Q9nXZOm---I--
+
+---2Q9nXZOm---J--
+
+---2Q9nXZOm---Z--
+
+---YRw7R2Vj---A--
+[03/Feb/2023:08:59:55 +0000] 1675414795 10.0.0.93 58410 10.0.0.11 80
+---YRw7R2Vj---B--
+POST /analisys/pdf?r_id=2056&channel_id=1 HTTP/1.1
+Content-Type: multipart/form-data; boundary=---------------------------398263815317422685791124495089
+Accept-Encoding: gzip, deflate, br
+Accept: application/json
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Sec-Fetch-Site: same-site
+Accept-Language: en-US,en;q=0.5
+Content-Length: 440337
+X-Forwarded-For: 10.0.18.182
+X-Real-IP: 10.0.18.182
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+Origin: http://example.com
+Referer: http://example.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+
+---YRw7R2Vj---D--
+
+---YRw7R2Vj---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="3803DAE8-37D0-FB5A-28E5-5D1566DCCB53.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 08:59:59 GMT
+Date: Fri, 03 Feb 2023 08:59:59 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---YRw7R2Vj---H--
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (428966 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: multipart/form-data found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app (375693 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414795"] [ref "v5,24o0,6v1337,429057t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v986,1v986,40v986,11v986,4v986,87v986,24v986,4v986,4v986,8v986,1v986,3v986,24v986,24v986,429057v986,24v986,24v986,24v986,376343 (426 characters omitted)"]
+
+---YRw7R2Vj---I--
+
+---YRw7R2Vj---J--
+
+---YRw7R2Vj---Z--
+
+---L4QevYmk---A--
+[03/Feb/2023:09:00:06 +0000] 1675414806 10.0.0.93 58882 10.0.0.11 80
+---L4QevYmk---B--
+POST /payments?r_id=715809&channel_id=2 HTTP/1.1
+Content-Type: application/json;charset=utf-8
+Accept-Encoding: gzip, deflate, br
+Accept: application/json, text/plain, */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Sec-Fetch-Site: same-site
+Sec-GPC: 1
+Accept-Language: en-US,en;q=0.5
+Content-Length: 44
+X-Forwarded-For: 10.0.6.20
+X-Real-IP: 10.0.6.20
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+Origin: http://example.com
+Referer: http://example.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+
+---L4QevYmk---D--
+
+---L4QevYmk---F--
+HTTP/1.1 401
+Server: nginx
+Date: Fri, 03 Feb 2023 09:00:06 GMT
+Date: Fri, 03 Feb 2023 09:00:06 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: http://example.com
+Connection: keep-alive
+Cache-Control: no-cache, private
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+
+---L4QevYmk---H--
+
+---L4QevYmk---I--
+
+---L4QevYmk---J--
+
+---L4QevYmk---Z--
+
+---kvycircq---A--
+[03/Feb/2023:09:00:02 +0000] 1675414802 10.0.0.93 58410 10.0.0.11 80
+---kvycircq---B--
+POST /analisys/pdf?r_id=4793&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryTc1XVBHq7Pratnei
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 493588
+X-Forwarded-For: 10.0.120.59
+X-Real-IP: 10.0.120.59
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---kvycircq---D--
+
+---kvycircq---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="92BA7F56-AF08-075C-BC3A-5CA81D387AAB.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:06 GMT
+Date: Fri, 03 Feb 2023 09:00:06 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---kvycircq---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (481502 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (404764 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414802"] [ref "v5,24o8503,4v1707,481050t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (481494 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (404761 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414802"] [ref "v5,24o0,6v1707,481050t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1126,1v1126,40v1126,11v1126,4v1126,68v1126,24v1126,4v1126,4v1126,8v1126,1v1126,3v1126,24v1126,24v1126,481050v1126,24v1126,24v1 (526 characters omitted)"]
+
+---kvycircq---I--
+
+---kvycircq---J--
+
+---kvycircq---Z--
+
+---vLJol4xt---A--
+[03/Feb/2023:09:00:06 +0000] 1675414806 10.0.0.93 58840 10.0.0.11 80
+---vLJol4xt---B--
+POST /analisys/pdf?r_id=4313&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundarydW7sdIJFneD3Ljcd
+Accept: application/json
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98"
+Content-Length: 439345
+X-Forwarded-For: 10.0.34.119
+X-Real-IP: 10.0.34.119
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---vLJol4xt---D--
+
+---vLJol4xt---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="955B6125-2661-547E-ACF5-E3BD89EC84BB.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:10 GMT
+Date: Fri, 03 Feb 2023 09:00:10 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---vLJol4xt---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (427821 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (373741 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414806"] [ref "v5,24o373886,4v1654,427807t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (427817 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (373738 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414806"] [ref "v5,24o0,6v1654,427807t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1077,1v1077,40v1077,11v1077,4v1077,68v1077,24v1077,4v1077,4v1077,8v1077,1v1077,3v1077,24v1077,24v1077,427807v1077,24v1077,24v1 (526 characters omitted)"]
+
+---vLJol4xt---I--
+
+---vLJol4xt---J--
+
+---vLJol4xt---Z--
+
+---EehWp25m---A--
+[03/Feb/2023:09:00:08 +0000] 1675414808 10.0.0.93 58804 10.0.0.11 80
+---EehWp25m---B--
+POST /analisys/pdf?r_id=886&channel_id=1 HTTP/1.1
+Content-Type: multipart/form-data; boundary=---------------------------58292677715573
+Accept-Encoding: gzip, deflate, br
+Accept: application/json
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0
+Accept-Language: en-US,en;q=0.5
+Content-Length: 488168
+X-Forwarded-For: 10.50.132.137
+X-Real-IP: 10.50.132.137
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+Origin: http://example.com
+Referer: http://example.com/contributions/reports/detail-member-statement
+
+---EehWp25m---D--
+
+---EehWp25m---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="382D788A-EE42-7252-5F95-796D2093BFDE.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:12 GMT
+Date: Fri, 03 Feb 2023 09:00:12 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---EehWp25m---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (475901 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (408317 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414808"] [ref "v5,24o408462,4v1485,475977t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (475897 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (408314 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414808"] [ref "v5,24o0,6v1485,475977t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v893,1v893,40v893,13v893,4v893,71v893,24v893,4v893,4v893,8v893,1v893,3v893,24v893,24v893,475977v893,24v893,24v893,24v893,195v89 (453 characters omitted)"]
+
+---EehWp25m---I--
+
+---EehWp25m---J--
+
+---EehWp25m---Z--
+
+---PU1RSWCw---A--
+[03/Feb/2023:09:00:12 +0000] 1675414812 10.0.0.93 58998 10.0.0.11 80
+---PU1RSWCw---B--
+POST /member/data_search/?page=1&r_id=869&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundary7v1AGgoQKiltBw8g
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 338
+X-Forwarded-For: 10.0.34.59
+X-Real-IP: 10.0.34.59
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---PU1RSWCw---D--
+
+---PU1RSWCw---F--
+HTTP/1.1 401
+Server: nginx
+Date: Fri, 03 Feb 2023 09:00:12 GMT
+Date: Fri, 03 Feb 2023 09:00:12 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: http://example.com
+Connection: keep-alive
+Cache-Control: no-cache, private
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+
+---PU1RSWCw---H--
+
+---PU1RSWCw---I--
+
+---PU1RSWCw---J--
+
+---PU1RSWCw---Z--
+
+---CnPPIdn1---A--
+[03/Feb/2023:09:00:13 +0000] 1675414813 10.0.0.93 59050 10.0.0.11 80
+---CnPPIdn1---B--
+POST /analisys/pdf?r_id=2585&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryEuECThsuiT9cW3Lh
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 442624
+X-Forwarded-For: 10.0.136.76
+X-Real-IP: 10.0.136.76
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---CnPPIdn1---D--
+
+---CnPPIdn1---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="92F231B7-AA03-B5B8-FFE6-D1DF5EEDC391.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:16 GMT
+Date: Fri, 03 Feb 2023 09:00:16 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---CnPPIdn1---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (431157 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (375938 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414813"] [ref "v5,24o376083,4v1706,431035t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (431153 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (375935 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414813"] [ref "v5,24o0,6v1706,431035t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1126,1v1126,40v1126,11v1126,4v1126,68v1126,24v1126,4v1126,4v1126,8v1126,1v1126,3v1126,24v1126,24v1126,431035v1126,24v1126,24v1 (526 characters omitted)"]
+
+---CnPPIdn1---I--
+
+---CnPPIdn1---J--
+
+---CnPPIdn1---Z--
+
+---INOZG33B---A--
+[03/Feb/2023:09:00:18 +0000] 1675414818 10.0.0.93 59116 10.0.0.11 80
+---INOZG33B---B--
+POST /analisys/pdf?r_id=3820&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryJpQpC36w44Zs3Jz9
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 437696
+X-Forwarded-For: 10.0.88.58
+X-Real-IP: 10.0.88.58
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---INOZG33B---D--
+
+---INOZG33B---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="7A828237-ECB6-ACA6-ACED-71CD8D73D840.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:21 GMT
+Date: Fri, 03 Feb 2023 09:00:21 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---INOZG33B---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (426425 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (373272 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414818"] [ref "v5,24o368015,4v1445,426507t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (426401 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (373269 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414818"] [ref "v5,24o0,6v1445,426507t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1151,1v1151,40v1151,10v1151,4v1151,68v1151,24v1151,4v1151,4v1151,8v1151,1v1151,3v1151,24v1151,24v1151,426507v1151,24v1151,24v1 (508 characters omitted)"]
+
+---INOZG33B---I--
+
+---INOZG33B---J--
+
+---INOZG33B---Z--
+
+---en7nIWBu---A--
+[03/Feb/2023:09:00:19 +0000] 1675414819 10.0.0.93 59198 10.0.0.11 80
+---en7nIWBu---B--
+POST /analisys/pdf?r_id=731524&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryMUFLr4srHE6zonuy
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 434756
+X-Forwarded-For: 10.0.68.103
+X-Real-IP: 10.0.68.103
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---en7nIWBu---D--
+
+---en7nIWBu---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="7CCEC018-FDC1-152C-6495-8654AA0BA91B.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:23 GMT
+Date: Fri, 03 Feb 2023 09:00:23 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---en7nIWBu---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (423756 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (370390 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414819"] [ref "v5,24o8503,4v1404,423559t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (423748 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (370387 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414819"] [ref "v5,24o0,6v1404,423559t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1110,1v1110,40v1110,11v1110,4v1110,68v1110,24v1110,4v1110,4v1110,8v1110,1v1110,3v1110,24v1110,24v1110,423559v1110,24v1110,24v1 (508 characters omitted)"]
+
+---en7nIWBu---I--
+
+---en7nIWBu---J--
+
+---en7nIWBu---Z--
+
+---z7JE9uyz---A--
+[03/Feb/2023:09:00:27 +0000] 1675414827 10.0.0.93 59634 10.0.0.11 80
+---z7JE9uyz---B--
+POST /analisys/pdf?r_id=39&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryKoMFpuBMYh8RgFBY
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 437734
+X-Forwarded-For: 10.0.33.112
+X-Real-IP: 10.0.33.112
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---z7JE9uyz---D--
+
+---z7JE9uyz---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="8863CA7F-5933-A0EF-E63A-3D1862AE11AE.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:30 GMT
+Date: Fri, 03 Feb 2023 09:00:30 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---z7JE9uyz---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (426463 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (373310 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414827"] [ref "v5,24o368015,4v1440,426545t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (426439 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (373307 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414827"] [ref "v5,24o0,6v1440,426545t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1146,1v1146,40v1146,11v1146,4v1146,68v1146,24v1146,4v1146,4v1146,8v1146,1v1146,3v1146,24v1146,24v1146,426545v1146,24v1146,24v1 (508 characters omitted)"]
+
+---z7JE9uyz---I--
+
+---z7JE9uyz---J--
+
+---z7JE9uyz---Z--
+
+---aHfd42iG---A--
+[03/Feb/2023:09:00:29 +0000] 1675414829 10.0.0.93 59730 10.0.0.11 80
+---aHfd42iG---B--
+POST /analisys/pdf?r_id=729527&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundarycLN6jOwNHsHN6mcA
+Accept: application/json
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"
+Content-Length: 441313
+X-Forwarded-For: 10.0.65.57
+X-Real-IP: 10.0.65.57
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---aHfd42iG---D--
+
+---aHfd42iG---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="A05A0346-CBAA-A8E5-5FF8-3331DEA39ABA.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:32 GMT
+Date: Fri, 03 Feb 2023 09:00:32 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---aHfd42iG---H--
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (430037 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: multipart/form-data found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app (376763 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414829"] [ref "v5,24o0,6v1420,430128t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1126,1v1126,40v1126,10v1126,4v1126,68v1126,24v1126,4v1126,4v1126,8v1126,1v1126,3v1126,24v1126,24v1126,430128v1126,24v1126,24v1 (496 characters omitted)"]
+
+---aHfd42iG---I--
+
+---aHfd42iG---J--
+
+---aHfd42iG---Z--
+
+---RQrqrPJ7---A--
+[03/Feb/2023:09:00:30 +0000] 1675414830 10.0.0.93 59728 10.0.0.11 80
+---RQrqrPJ7---B--
+POST /analisys/pdf?r_id=1768&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryhPqVVP43FMZ5z0u1
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 478205
+X-Forwarded-For: 10.0.120.85
+X-Real-IP: 10.0.120.85
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---RQrqrPJ7---D--
+
+---RQrqrPJ7---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="A86C81AE-D07A-54CA-08B1-250427787F72.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:34 GMT
+Date: Fri, 03 Feb 2023 09:00:34 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---RQrqrPJ7---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (466160 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (395799 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414830"] [ref "v5,24o8503,4v1650,465948t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (466156 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (395796 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414830"] [ref "v5,24o0,6v1650,465948t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1074,1v1074,40v1074,11v1074,4v1074,68v1074,24v1074,4v1074,4v1074,8v1074,1v1074,3v1074,24v1074,24v1074,465948v1074,24v1074,24v1 (526 characters omitted)"]
+
+---RQrqrPJ7---I--
+
+---RQrqrPJ7---J--
+
+---RQrqrPJ7---Z--
+
+---4BQTqqzl---A--
+[03/Feb/2023:09:00:46 +0000] 1675414846 10.0.0.93 32938 10.0.0.11 80
+---4BQTqqzl---B--
+GET /contribution/gettransactionhistory/201600688/128000055939?page=1&r_id=5202&channel_id=1 HTTP/1.1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Accept: application/json
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Sec-Fetch-Site: same-site
+Referer: http://example.com/
+Origin: http://example.com
+X-Forwarded-For: 10.0.114.92
+X-Real-IP: 10.0.114.92
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+
+---4BQTqqzl---D--
+
+---4BQTqqzl---F--
+HTTP/1.1 401
+Server: nginx
+Date: Fri, 03 Feb 2023 09:00:46 GMT
+Date: Fri, 03 Feb 2023 09:00:46 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: http://example.com
+Connection: keep-alive
+Cache-Control: no-cache, private
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+
+---4BQTqqzl---H--
+
+---4BQTqqzl---I--
+
+---4BQTqqzl---J--
+
+---4BQTqqzl---Z--
+
+---Nopnmcoe---A--
+[03/Feb/2023:09:00:43 +0000] 1675414843 10.0.0.93 60816 10.0.0.11 80
+---Nopnmcoe---B--
+POST /analisys/pdf?r_id=1377&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundary250IYBwBDG0MtEva
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 451037
+X-Forwarded-For: 10.0.65.88
+X-Real-IP: 10.0.65.88
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---Nopnmcoe---D--
+
+---Nopnmcoe---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="1022CFEE-B312-3BE7-3FC1-3B185A5A1F90.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:46 GMT
+Date: Fri, 03 Feb 2023 09:00:46 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---Nopnmcoe---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (439250 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (381336 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414843"] [ref "v5,24o8503,4v1680,439326t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (439246 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (381333 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414843"] [ref "v5,24o0,6v1680,439326t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1104,1v1104,40v1104,10v1104,4v1104,68v1104,24v1104,4v1104,4v1104,8v1104,1v1104,3v1104,24v1104,24v1104,439326v1104,24v1104,24v1 (526 characters omitted)"]
+
+---Nopnmcoe---I--
+
+---Nopnmcoe---J--
+
+---Nopnmcoe---Z--
+
+---xBM7oacr---A--
+[03/Feb/2023:09:00:44 +0000] 1675414844 10.0.0.93 60836 10.0.0.11 80
+---xBM7oacr---B--
+POST /analisys/pdf?r_id=321&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundary5pP4U41Pry3BPhxH
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 492427
+X-Forwarded-For: 10.0.64.104
+X-Real-IP: 10.0.64.104
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---xBM7oacr---D--
+
+---xBM7oacr---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="B3120A0C-9B3E-119E-5A8C-4DBBB87A1F1D.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:48 GMT
+Date: Fri, 03 Feb 2023 09:00:48 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---xBM7oacr---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (480249 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (404115 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414844"] [ref "v5,24o8503,4v1788,479821t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (480241 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (404112 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414844"] [ref "v5,24o0,6v1788,479821t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1113,1v1113,40v1113,11v1113,4v1113,68v1113,24v1113,4v1113,4v1113,8v1113,1v1113,3v1113,24v1113,24v1113,479821v1113,24v1113,24v1 (544 characters omitted)"]
+
+---xBM7oacr---I--
+
+---xBM7oacr---J--
+
+---xBM7oacr---Z--
+
+---tcI1IVT8---A--
+[03/Feb/2023:09:00:47 +0000] 1675414847 10.0.0.93 32814 10.0.0.11 80
+---tcI1IVT8---B--
+POST /analisys/pdf?r_id=321&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryLSVlXq7oKwSMApY0
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 492337
+X-Forwarded-For: 10.0.64.104
+X-Real-IP: 10.0.64.104
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---tcI1IVT8---D--
+
+---tcI1IVT8---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="1CB9D91D-F4E1-4F63-80B6-0D926ED2D6E8.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:51 GMT
+Date: Fri, 03 Feb 2023 09:00:51 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---tcI1IVT8---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (480249 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (404115 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414847"] [ref "v5,24o8503,4v1698,479821t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (480241 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (404112 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414847"] [ref "v5,24o0,6v1698,479821t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1113,1v1113,40v1113,11v1113,4v1113,68v1113,24v1113,4v1113,4v1113,8v1113,1v1113,3v1113,24v1113,24v1113,479821v1113,24v1113,24v1 (526 characters omitted)"]
+
+---tcI1IVT8---I--
+
+---tcI1IVT8---J--
+
+---tcI1IVT8---Z--
+
+---5OspPT94---A--
+[03/Feb/2023:09:00:51 +0000] 1675414851 10.0.0.93 33076 10.0.0.11 80
+---5OspPT94---B--
+POST /analisys/pdf?r_id=728811&channel_id=1 HTTP/1.1
+Content-Type: multipart/form-data; boundary=---------------------------1370770331788103395349623254
+Accept-Encoding: gzip, deflate, br
+Accept: application/json
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Sec-Fetch-Site: same-site
+Accept-Language: en-US,en;q=0.5
+Content-Length: 441043
+X-Forwarded-For: 10.0.1.123
+X-Real-IP: 10.0.1.123
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+Origin: http://example.com
+Referer: http://example.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+
+---5OspPT94---D--
+
+---5OspPT94---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="61072ABE-4DFD-D2DD-AC55-9E4DA7ABD409.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:54 GMT
+Date: Fri, 03 Feb 2023 09:00:54 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---5OspPT94---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (429302 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (374797 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414851"] [ref "v5,24o374942,4v1584,429378t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (429298 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (374794 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414851"] [ref "v5,24o0,6v1584,429378t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v938,1v938,40v938,10v938,4v938,85v938,24v938,4v938,4v938,8v938,1v938,3v938,24v938,24v938,429378v938,24v938,24v938,24v938,193v93 (453 characters omitted)"]
+
+---5OspPT94---I--
+
+---5OspPT94---J--
+
+---5OspPT94---Z--
+
+---zJGCf4fA---A--
+[03/Feb/2023:09:00:52 +0000] 1675414852 10.0.0.93 33058 10.0.0.11 80
+---zJGCf4fA---B--
+POST /analisys/pdf?r_id=729527&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryiBVWzLSQ0UNiCwO3
+Accept: application/json
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"
+Content-Length: 441313
+X-Forwarded-For: 10.0.65.57
+X-Real-IP: 10.0.65.57
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---zJGCf4fA---D--
+
+---zJGCf4fA---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="D9CEEE32-3E60-4566-61A6-A3454C35B57E.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:55 GMT
+Date: Fri, 03 Feb 2023 09:00:55 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---zJGCf4fA---H--
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (430037 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: multipart/form-data found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app (376763 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414852"] [ref "v5,24o0,6v1420,430128t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1126,1v1126,40v1126,10v1126,4v1126,68v1126,24v1126,4v1126,4v1126,8v1126,1v1126,3v1126,24v1126,24v1126,430128v1126,24v1126,24v1 (496 characters omitted)"]
+
+---zJGCf4fA---I--
+
+---zJGCf4fA---J--
+
+---zJGCf4fA---Z--
+
+---0leWK3IW---A--
+[03/Feb/2023:09:00:52 +0000] 1675414852 10.0.0.93 33050 10.0.0.11 80
+---0leWK3IW---B--
+POST /analisys/pdf?r_id=731&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryIUtIlSeriWyx6pS1
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 467823
+X-Forwarded-For: 10.0.19.140
+X-Real-IP: 10.0.19.140
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---0leWK3IW---D--
+
+---0leWK3IW---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="55418977-BFA1-92F0-C1CB-097466A02308.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:55 GMT
+Date: Fri, 03 Feb 2023 09:00:55 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---0leWK3IW---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (455791 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (390254 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414852"] [ref "v5,24o8503,4v1674,455771t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (455787 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (390251 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414852"] [ref "v5,24o0,6v1674,455771t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1095,1v1095,40v1095,11v1095,4v1095,68v1095,24v1095,4v1095,4v1095,8v1095,1v1095,3v1095,24v1095,24v1095,455771v1095,24v1095,24v1 (526 characters omitted)"]
+
+---0leWK3IW---I--
+
+---0leWK3IW---J--
+
+---0leWK3IW---Z--
+
+---6K4sA45N---A--
+[03/Feb/2023:09:00:53 +0000] 1675414853 10.0.0.93 33174 10.0.0.11 80
+---6K4sA45N---B--
+POST /analisys/pdf?r_id=467&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundarywVRWFzQ2ntPb9BnI
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 460118
+X-Forwarded-For: 10.0.14.221
+X-Real-IP: 10.0.14.221
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---6K4sA45N---D--
+
+---6K4sA45N---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="295D0D7A-F4B5-9BA5-CA65-D0099576BFD7.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:57 GMT
+Date: Fri, 03 Feb 2023 09:00:57 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---6K4sA45N---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (448147 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (386181 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414853"] [ref "v5,24o8503,4v1670,448223t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (448143 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (386178 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414853"] [ref "v5,24o0,6v1670,448223t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1092,1v1092,40v1092,11v1092,4v1092,68v1092,24v1092,4v1092,4v1092,8v1092,1v1092,3v1092,24v1092,24v1092,448223v1092,24v1092,24v1 (526 characters omitted)"]
+
+---6K4sA45N---I--
+
+---6K4sA45N---J--
+
+---6K4sA45N---Z--
+
+---n7jbDeNC---A--
+[03/Feb/2023:09:00:54 +0000] 1675414854 10.0.0.93 33244 10.0.0.11 80
+---n7jbDeNC---B--
+POST /analisys/pdf?r_id=314&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryDKuW1Z2RzxI51pcn
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 455100
+X-Forwarded-For: 10.0.82.62
+X-Real-IP: 10.0.82.62
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---n7jbDeNC---D--
+
+---n7jbDeNC---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="9E426473-E4A7-81CD-E95D-31CBDA4CFE02.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:00:58 GMT
+Date: Fri, 03 Feb 2023 09:00:58 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---n7jbDeNC---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (443306 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (383579 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414854"] [ref "v5,24o8503,4v1646,443310t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (443298 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (383576 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414854"] [ref "v5,24o0,6v1646,443310t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1069,1v1069,40v1069,10v1069,4v1069,68v1069,24v1069,4v1069,4v1069,8v1069,1v1069,3v1069,24v1069,24v1069,443310v1069,24v1069,24v1 (526 characters omitted)"]
+
+---n7jbDeNC---I--
+
+---n7jbDeNC---J--
+
+---n7jbDeNC---Z--
+
+---qqE8zz4F---A--
+[03/Feb/2023:09:01:01 +0000] 1675414861 10.0.0.93 34054 10.0.0.11 80
+---qqE8zz4F---B--
+POST /analisys/pdf?r_id=3820&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundary8BetAEYlT4zcnXCB
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 435054
+X-Forwarded-For: 10.0.88.58
+X-Real-IP: 10.0.88.58
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---qqE8zz4F---D--
+
+---qqE8zz4F---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="24DD6EE6-364F-E46A-518B-31A6E070B461.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:01:04 GMT
+Date: Fri, 03 Feb 2023 09:01:04 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---qqE8zz4F---H--
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (423729 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: multipart/form-data found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app (370543 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414861"] [ref "v5,24o0,6v1398,423888t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1103,1v1103,40v1103,10v1103,4v1103,68v1103,24v1103,4v1103,4v1103,8v1103,1v1103,3v1103,24v1103,24v1103,423888v1103,24v1103,24v1 (496 characters omitted)"]
+
+---qqE8zz4F---I--
+
+---qqE8zz4F---J--
+
+---qqE8zz4F---Z--
+
+---fx1Vy6HG---A--
+[03/Feb/2023:09:01:15 +0000] 1675414875 10.0.0.93 34902 10.0.0.11 80
+---fx1Vy6HG---B--
+POST /account/member?r_id=1739&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryfxQHl2HtijVOMRtT
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 349
+X-Forwarded-For: 10.0.18.113
+X-Real-IP: 10.0.18.113
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---fx1Vy6HG---D--
+
+---fx1Vy6HG---F--
+HTTP/1.1 401
+Server: nginx
+Date: Fri, 03 Feb 2023 09:01:15 GMT
+Date: Fri, 03 Feb 2023 09:01:15 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: http://example.com
+Connection: keep-alive
+Cache-Control: no-cache, private
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+
+---fx1Vy6HG---H--
+
+---fx1Vy6HG---I--
+
+---fx1Vy6HG---J--
+
+---fx1Vy6HG---Z--
+
+---GEpZl1TJ---A--
+[03/Feb/2023:09:01:08 +0000] 1675414868 10.0.0.93 34094 10.0.0.11 80
+---GEpZl1TJ---B--
+POST /analisys/pdf?r_id=3184&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryzPXsXqRPWyfUhQyi
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 694555
+X-Forwarded-For: 10.0.16.149
+X-Real-IP: 10.0.16.149
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---GEpZl1TJ---D--
+
+---GEpZl1TJ---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="406BA24E-618C-1C55-9741-8408F34FCCC1.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:01:18 GMT
+Date: Fri, 03 Feb 2023 09:01:18 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---GEpZl1TJ---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (683623 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (556016 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414868"] [ref "v5,24o556161,4v1653,679775t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (683619 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (556013 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414868"] [ref "v5,24o0,6v1653,679775t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1074,1v1074,40v1074,11v1074,4v1074,68v1074,24v1074,4v1074,4v1074,8v1074,1v1074,3v1074,24v1074,24v1074,679775v1074,24v1074,24v1 (526 characters omitted)"]
+
+---GEpZl1TJ---I--
+
+---GEpZl1TJ---J--
+
+---GEpZl1TJ---Z--
+
+---iChtW0EP---A--
+[03/Feb/2023:09:01:52 +0000] 1675414912 10.0.0.93 36914 10.0.0.11 80
+---iChtW0EP---B--
+POST /search_for_member?page=[object%20PointerEvent]&r_id=1706&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: application/json;charset=UTF-8
+Accept: application/json, text/plain, */*
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 115
+X-Forwarded-For: 10.0.32.127
+X-Real-IP: 10.0.32.127
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---iChtW0EP---D--
+
+---iChtW0EP---F--
+HTTP/1.1 401
+Server: nginx
+Date: Fri, 03 Feb 2023 09:01:52 GMT
+Date: Fri, 03 Feb 2023 09:01:52 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: http://example.com
+Connection: keep-alive
+Cache-Control: no-cache, private
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+
+---iChtW0EP---H--
+
+---iChtW0EP---I--
+
+---iChtW0EP---J--
+
+---iChtW0EP---Z--
+
+---rQiL1lOV---A--
+[03/Feb/2023:09:01:45 +0000] 1675414905 10.0.0.93 36554 10.0.0.11 80
+---rQiL1lOV---B--
+POST /analisys/pdf?r_id=2056&channel_id=1 HTTP/1.1
+Content-Type: multipart/form-data; boundary=---------------------------970201638418235558658305708
+Accept-Encoding: gzip, deflate, br
+Accept: application/json
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Sec-Fetch-Site: same-site
+Accept-Language: en-US,en;q=0.5
+Content-Length: 443276
+X-Forwarded-For: 10.0.18.182
+X-Real-IP: 10.0.18.182
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+Origin: http://example.com
+Referer: http://example.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+
+---rQiL1lOV---D--
+
+---rQiL1lOV---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="B0112DC9-C6DB-0F12-39BF-F88E2116E3A8.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:01:49 GMT
+Date: Fri, 03 Feb 2023 09:01:49 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---rQiL1lOV---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (431545 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (377203 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414905"] [ref "v5,24o8503,4v1619,431621t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (431541 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (377200 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414905"] [ref "v5,24o0,6v1619,431621t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v971,1v971,40v971,11v971,4v971,84v971,24v971,4v971,4v971,8v971,1v971,3v971,24v971,24v971,431621v971,24v971,24v971,24v971,199v97 (453 characters omitted)"]
+
+---rQiL1lOV---I--
+
+---rQiL1lOV---J--
+
+---rQiL1lOV---Z--
+
+---iigOZmEG---A--
+[03/Feb/2023:09:01:51 +0000] 1675414911 10.0.0.93 36742 10.0.0.11 80
+---iigOZmEG---B--
+POST /analisys/pdf?r_id=801&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryPcBmo72KP9lsRKJL
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 435046
+X-Forwarded-For: 10.0.65.85
+X-Real-IP: 10.0.65.85
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---iigOZmEG---D--
+
+---iigOZmEG---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="25D1173D-51E4-3638-22BC-B2056B2F572B.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:01:54 GMT
+Date: Fri, 03 Feb 2023 09:01:54 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---iigOZmEG---H--
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (423721 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: multipart/form-data found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app (370535 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414911"] [ref "v5,24o0,6v1394,423880t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1099,1v1099,40v1099,10v1099,4v1099,68v1099,24v1099,4v1099,4v1099,8v1099,1v1099,3v1099,24v1099,24v1099,423880v1099,24v1099,24v1 (496 characters omitted)"]
+
+---iigOZmEG---I--
+
+---iigOZmEG---J--
+
+---iigOZmEG---Z--
+
+---YDXY9sXS---A--
+[03/Feb/2023:09:01:51 +0000] 1675414911 10.0.0.93 36662 10.0.0.11 80
+---YDXY9sXS---B--
+POST /analisys/pdf?r_id=4784&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryd6gqAJRroYcALgK8
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 490829
+X-Forwarded-For: 10.0.70.63
+X-Real-IP: 10.0.70.63
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---YDXY9sXS---D--
+
+---YDXY9sXS---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="6D8B809D-80A8-98AF-BC89-591867E51D26.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:01:55 GMT
+Date: Fri, 03 Feb 2023 09:01:55 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---YDXY9sXS---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (478754 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (403365 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414911"] [ref "v5,24o8503,4v1652,478350t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (478746 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (403362 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414911"] [ref "v5,24o0,6v1652,478350t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1072,1v1072,40v1072,10v1072,4v1072,68v1072,24v1072,4v1072,4v1072,8v1072,1v1072,3v1072,24v1072,24v1072,478350v1072,24v1072,24v1 (526 characters omitted)"]
+
+---YDXY9sXS---I--
+
+---YDXY9sXS---J--
+
+---YDXY9sXS---Z--
+
+---Sdqgerrc---A--
+[03/Feb/2023:09:01:54 +0000] 1675414914 10.0.0.93 36758 10.0.0.11 80
+---Sdqgerrc---B--
+POST /analisys/pdf?r_id=801&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundary2iVZPJ7620L3B4Dw
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 435046
+X-Forwarded-For: 10.0.65.85
+X-Real-IP: 10.0.65.85
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---Sdqgerrc---D--
+
+---Sdqgerrc---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="2566D985-1BF2-1E4D-B435-6C4309A7CE80.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:01:57 GMT
+Date: Fri, 03 Feb 2023 09:01:57 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---Sdqgerrc---H--
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (423721 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: multipart/form-data found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app (370535 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414914"] [ref "v5,24o0,6v1394,423880t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1099,1v1099,40v1099,10v1099,4v1099,68v1099,24v1099,4v1099,4v1099,8v1099,1v1099,3v1099,24v1099,24v1099,423880v1099,24v1099,24v1 (496 characters omitted)"]
+
+---Sdqgerrc---I--
+
+---Sdqgerrc---J--
+
+---Sdqgerrc---Z--
+
+---G6vK8dZV---A--
+[03/Feb/2023:09:01:58 +0000] 1675414918 10.0.0.93 37122 10.0.0.11 80
+---G6vK8dZV---B--
+GET /somepath/0102930495940?r_id=3924&channel_id=1 HTTP/1.1
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+X-Forwarded-For: 10.0.36.145
+X-Real-IP: 10.0.36.145
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---G6vK8dZV---D--
+
+---G6vK8dZV---F--
+HTTP/1.1 401
+Server: nginx
+Date: Fri, 03 Feb 2023 09:01:58 GMT
+Date: Fri, 03 Feb 2023 09:01:58 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: http://example.com
+Connection: keep-alive
+Cache-Control: no-cache, private
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+
+---G6vK8dZV---H--
+
+---G6vK8dZV---I--
+
+---G6vK8dZV---J--
+
+---G6vK8dZV---Z--
+
+---wv4rTqZs---A--
+[03/Feb/2023:09:01:58 +0000] 1675414918 10.0.0.93 35074 10.0.0.11 80
+---wv4rTqZs---B--
+GET /member?r_id=3924&channel_id=1 HTTP/1.1
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+X-Forwarded-For: 10.0.36.145
+X-Real-IP: 10.0.36.145
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---wv4rTqZs---D--
+
+---wv4rTqZs---F--
+HTTP/1.1 401
+Server: nginx
+Date: Fri, 03 Feb 2023 09:01:58 GMT
+Date: Fri, 03 Feb 2023 09:01:58 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: http://example.com
+Connection: keep-alive
+Cache-Control: no-cache, private
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+
+---wv4rTqZs---H--
+
+---wv4rTqZs---I--
+
+---wv4rTqZs---J--
+
+---wv4rTqZs---Z--
+
+---Ug3dZvu6---A--
+[03/Feb/2023:09:01:55 +0000] 1675414915 10.0.0.93 36938 10.0.0.11 80
+---Ug3dZvu6---B--
+POST /analisys/pdf?r_id=1914&channel_id=1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Sec-Fetch-Site: same-site
+sec-ch-ua-mobile: ?0
+Origin: http://example.com
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryYUGq5K39TuA9zBFP
+Accept: application/json
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+Content-Length: 437814
+X-Forwarded-For: 10.0.114.53
+X-Real-IP: 10.0.114.53
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+sec-ch-ua-platform: "Windows"
+Referer: http://example.com/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+---Ug3dZvu6---D--
+
+---Ug3dZvu6---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="7A29900E-7484-1D4B-FD60-E39E2A37F19D.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:01:59 GMT
+Date: Fri, 03 Feb 2023 09:01:59 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---Ug3dZvu6---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (426543 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (373390 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414915"] [ref "v5,24o368015,4v1447,426625t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (426519 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (373387 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414915"] [ref "v5,24o0,6v1447,426625t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1153,1v1153,40v1153,11v1153,4v1153,68v1153,24v1153,4v1153,4v1153,8v1153,1v1153,3v1153,24v1153,24v1153,426625v1153,24v1153,24v1 (508 characters omitted)"]
+
+---Ug3dZvu6---I--
+
+---Ug3dZvu6---J--
+
+---Ug3dZvu6---Z--
+
+---1BjplKem---A--
+[03/Feb/2023:09:02:04 +0000] 1675414924 10.0.0.93 36860 10.0.0.11 80
+---1BjplKem---B--
+POST /analisys/pdf?r_id=4534&channel_id=1 HTTP/1.1
+Content-Type: multipart/form-data; boundary=---------------------------260861132320866977661176227901
+Accept-Encoding: gzip, deflate, br
+Accept: application/json
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Sec-Fetch-Site: same-site
+Accept-Language: en-US,en;q=0.5
+Content-Length: 437851
+X-Forwarded-For: 10.0.64.199
+X-Real-IP: 10.0.64.199
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+Origin: http://example.com
+Referer: http://example.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+
+---1BjplKem---D--
+
+---1BjplKem---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="64FAE874-EA5B-45F2-485E-AE482F9EC785.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:02:07 GMT
+Date: Fri, 03 Feb 2023 09:02:07 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---1BjplKem---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (426485 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (373332 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414924"] [ref "v5,24o368015,4v1364,426567t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (426461 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (373329 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414924"] [ref "v5,24o0,6v1364,426567t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v1013,1v1013,40v1013,11v1013,4v1013,87v1013,24v1013,4v1013,4v1013,8v1013,1v1013,3v1013,24v1013,24v1013,426567v1013,24v1013,24v1 (508 characters omitted)"]
+
+---1BjplKem---I--
+
+---1BjplKem---J--
+
+---1BjplKem---Z--
+
+---MBouWssK---A--
+[03/Feb/2023:09:02:04 +0000] 1675414924 10.0.0.93 37152 10.0.0.11 80
+---MBouWssK---B--
+POST /analisys/pdf?r_id=2056&channel_id=1 HTTP/1.1
+Content-Type: multipart/form-data; boundary=---------------------------122148760223002714981870600819
+Accept-Encoding: gzip, deflate, br
+Accept: application/json
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Sec-Fetch-Site: same-site
+Accept-Language: en-US,en;q=0.5
+Content-Length: 443384
+X-Forwarded-For: 10.0.18.182
+X-Real-IP: 10.0.18.182
+Authorization: tokentsaefaewvavwevaevewv
+Host: example.com
+Origin: http://example.com
+Referer: http://example.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+
+---MBouWssK---D--
+
+---MBouWssK---F--
+HTTP/1.1 200
+Authorization: tokentsaefaewvavwevaevewv
+Access-Control-Allow-Headers: Content-Type, X-Auth-Token, Origin, Authorization
+Content-Disposition: attachment; filename="2AD92696-8890-3112-CFEC-ACDBE996C0B4.pdf"
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Connection: keep-alive
+Access-Control-Allow-Origin: http://example.com
+Content-Type: application/pdf
+Access-Control-Expose-Headers: Authorization
+Date: Fri, 03 Feb 2023 09:02:07 GMT
+Date: Fri, 03 Feb 2023 09:02:07 GMT
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Server: nginx
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+
+---MBouWssK---H--
+ModSecurity: Warning. Matched "Operator `Pm' with parameter `document.cookie .parentnode .innerhtml <!-- --> <![cdata[' against variable `ARGS:html_data' (Value: `<style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (431545 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "83"] [id "212340"] [rev "4"] [msg "COMODO WAF: Cross-site Scripting (XSS) Attack||example.com|F|2"] [data "Matched Data: <!-- found within ARGS:html_data: <style>/* Global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .cu (377203 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414924"] [ref "v5,24o8503,4v1724,431621t:urlDecodeUni,t:htmlEntityDecode,t:compressWhiteSpace"]
+ModSecurity: Warning. Matched "Operator `Rx' with parameter `(?i:<style.*?>.*?(?:@[i\\\\]|(?:[:=]|&#x?0*(?:58|3A|61|3D);?).*?(?:[(\\\\]|&#x?0*(?:40|28|92|5C);?)))' against variable `MATCHED_VAR' (Value: `<style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-repor (431541 characters omitted)' ) [file "/etc/nginx/modsec/comodo/07_XSS_XSS.conf"] [line "151"] [id "212880"] [rev "3"] [msg "COMODO WAF: IE XSS Filters - Attack Detected.||example.com|F|2"] [data "Matched Data: <!-- found within MATCHED_VAR: <style>/* global */.app-reports .logo,.app-reports .company-name,.app-reports .regulation,.app-reports .title,.app-reports .description,.app-reports .custo (377200 characters omitted)"] [severity "2"] [ver ""] [maturity "0"] [accuracy "0"] [tag "CWAF"] [tag "XSS"] [hostname "10.0.0.11"] [uri "/analisys/pdf"] [unique_id "1675414924"] [ref "v5,24o0,6v1724,431621t:urlDecodeUni,t:htmlEntityDecode,t:lowercaseo0,7803v974,1v974,40v974,11v974,4v974,87v974,24v974,4v974,4v974,8v974,1v974,3v974,24v974,24v974,431621v974,24v974,24v974,24v974,178v97 (469 characters omitted)"]
+
+---MBouWssK---I--
+
+---MBouWssK---J--
+
+---MBouWssK---Z--
+

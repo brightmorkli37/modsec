@@ -1,0 +1,8 @@
+
+Here's how you can use this script:
+
+Save the above code into a file named modsec_viewer.py.
+Make sure that you have the modsec.db database file in the same directory as the Python script.
+Open a command prompt or terminal window, and navigate to the directory containing the Python script and the database file.
+Run the Python script by typing python modsec_viewer.py and pressing Enter.
+The script will create a simple interface that displays the records in the modsec_logs table of the modsec.db database. The interface consists of a listbox that shows all the records, a scrollbar to navigate the listbox, and a "Refresh" button to update the listbox if any changes are made to the database. You can use this interface to view the data in the database and scroll through the records.
